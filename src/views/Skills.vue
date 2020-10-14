@@ -7,6 +7,7 @@
     <h3>HTML5<i class="fab fa-html5" style="font-size:26px"></i></h3>
     <h3>ReactJs<i class="fab fa-react" style="font-size:26px"></i></h3>
     <h3>Database<i class="fas fa-database" style="font-size:26px"></i></h3>
+    <h3>VueJs<i class="fab fa-vuejs" style="font-size:26px"></i></h3>
     <br>
     <router-link to="/">Home</router-link> 
 </div>
